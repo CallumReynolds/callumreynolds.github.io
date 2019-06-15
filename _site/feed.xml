@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="reycipes/feed.xml" rel="self" type="application/atom+xml" /><link href="reycipes/" rel="alternate" type="text/html" /><updated>2019-06-06T15:14:38+10:00</updated><id>reycipes/feed.xml</id><title type="html">Recipes</title><subtitle>A very simple blog website that contains a multitude of recipes to lookup and browse.</subtitle><entry><title type="html">Hello World!</title><link href="reycipes/jekyll/update/2019/06/06/helloWorld.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>reycipes/jekyll/update/2019/06/06/helloWorld</id><content type="html" xml:base="reycipes/jekyll/update/2019/06/06/helloWorld.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-15T13:28:51+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Recipes</title><subtitle>A very simple blog website that contains a multitude of recipes to lookup and browse.</subtitle><entry><title type="html">Thai Meatballs with Peanut Sauce</title><link href="http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs.html" rel="alternate" type="text/html" title="Thai Meatballs with Peanut Sauce" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;500g topside mince&lt;/li&gt;
+  &lt;li&gt;Flour for coating&lt;/li&gt;
+  &lt;li&gt;Oil for frying&lt;/li&gt;
+  &lt;li&gt;2 Tablespoons chopped fresh coriander
+Peanut Sauce:&lt;/li&gt;
+  &lt;li&gt;1 Tablespoon red curry paste&lt;/li&gt;
+  &lt;li&gt;2 Tablespoons crunchy peanut butter&lt;/li&gt;
+  &lt;li&gt;1 Tablespoon brown sugar, well packed&lt;/li&gt;
+  &lt;li&gt;1 Tablespoon lemon juice&lt;/li&gt;
+  &lt;li&gt;1 &amp;amp; 1/4 Cups coconut milk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Roll beef mince into small balls and coat lighlty in flour. Deep- or shallow-fry meatballs until golden brown and cooked through. Drain on absorbent paper.&lt;/li&gt;
+  &lt;li&gt;Peanut Sauce: Drain off most of oil from pan leaving about 1 tablespoon. Add curry paste and fry for 1 minute.&lt;/li&gt;
+  &lt;li&gt;Add all other ingrediants except coriander and bring to the boil. Add meatballs, lower heat and simmer for 5 minutes or until sauce has thickened. Sprinkle with coriander to serve.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Serves 4&lt;/p&gt;</content><author><name></name></author><summary type="html">Ingrediants: 500g topside mince Flour for coating Oil for frying 2 Tablespoons chopped fresh coriander Peanut Sauce: 1 Tablespoon red curry paste 2 Tablespoons crunchy peanut butter 1 Tablespoon brown sugar, well packed 1 Tablespoon lemon juice 1 &amp;amp; 1/4 Cups coconut milk</summary></entry><entry><title type="html">Fresh Scones</title><link href="http://localhost:4000/jekyll/update/2019/06/15/scones.html" rel="alternate" type="text/html" title="Fresh Scones" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/scones</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/scones.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;3 cups self-raising flour&lt;/li&gt;
+  &lt;li&gt;Pinch salt&lt;/li&gt;
+  &lt;li&gt;1/2 cup cream&lt;/li&gt;
+  &lt;li&gt;1 &amp;amp; 1/2 cups milk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Preheat oven to 240C and grease a baking tray&lt;/li&gt;
+  &lt;li&gt;Sift flour and salt into a bowl, and into the centre add the cream and milk. Stir with a knife to form a soft
+dough. Turn out onto a floured board nd knead lightly. Roll to about 12mm in thickness and, using a 5cm cutter, cut out the scones. Place side by side on baking tray.&lt;/li&gt;
+  &lt;li&gt;Cook in a very hot oven (240C) for 10 minutes. When cooked, remove from oven and brush tops with melted butter to enhance their appearance.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By CWA of Victoria.&lt;/p&gt;</content><author><name></name></author><summary type="html">Ingrediants: 3 cups self-raising flour Pinch salt 1/2 cup cream 1 &amp;amp; 1/2 cups milk</summary></entry><entry><title type="html">Chilli Beef</title><link href="http://localhost:4000/jekyll/update/2019/06/15/chillibeef.html" rel="alternate" type="text/html" title="Chilli Beef" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/chillibeef</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/chillibeef.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2 to 3 red chillis, seeded&lt;/li&gt;
+  &lt;li&gt;Onion, peeled and quartered&lt;/li&gt;
+  &lt;li&gt;3 Cloves garlic, peeled&lt;/li&gt;
+  &lt;li&gt;3 Tablespoons oil&lt;/li&gt;
+  &lt;li&gt;500g Rump or topside beef, thinly sliced&lt;/li&gt;
+  &lt;li&gt;1 Tablespoon oyster sauce&lt;/li&gt;
+  &lt;li&gt;2 Tablespoons fish sauce&lt;/li&gt;
+  &lt;li&gt;4 Tablespoons water&lt;/li&gt;
+  &lt;li&gt;1 Red capsicum sliced&lt;/li&gt;
+  &lt;li&gt;2 Tablespoons chopped fresh coriander&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Place chillies, onion and garlic into a food processor or blender and puree until almost smooth.&lt;/li&gt;
+  &lt;li&gt;Heat 2 tablespoons of the oil in a wok or large frying pan. Fry meat until well browned (you may have to do this in batches) and set aside.&lt;/li&gt;
+  &lt;li&gt;Add remaining 1 tablespoon oil to pan and stir-fry chilli paste over a moderate heat for 4 minutes or until golden brown.&lt;/li&gt;
+  &lt;li&gt;Stir in beef, oyster sauce, fish sauce, water and capsicum and fry for a further 2 minutes or until meat is cooked. Serve sprinkled with chopped coriander.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Serves 4&lt;/p&gt;</content><author><name></name></author><summary type="html">Ingrediants: 2 to 3 red chillis, seeded Onion, peeled and quartered 3 Cloves garlic, peeled 3 Tablespoons oil 500g Rump or topside beef, thinly sliced 1 Tablespoon oyster sauce 2 Tablespoons fish sauce 4 Tablespoons water 1 Red capsicum sliced 2 Tablespoons chopped fresh coriander</summary></entry><entry><title type="html">Brownies</title><link href="http://localhost:4000/jekyll/update/2019/06/15/brownie.html" rel="alternate" type="text/html" title="Brownies" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/brownie</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/brownie.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/2 cup butter (melted)&lt;/li&gt;
+  &lt;li&gt;1 cup sugar&lt;/li&gt;
+  &lt;li&gt;1 tspn vanilla&lt;/li&gt;
+  &lt;li&gt;2 eggs&lt;/li&gt;
+  &lt;li&gt;3/4 cup self-raising flour&lt;/li&gt;
+  &lt;li&gt;1/3 cup cocoa powder&lt;/li&gt;
+  &lt;li&gt;1/2 - 1 cup choc bits or dried fruit or nuts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mix butter, sugar, vanilla &amp;amp; eggs&lt;/li&gt;
+  &lt;li&gt;Add the flour &amp;amp; cocoa&lt;/li&gt;
+  &lt;li&gt;Lined square cake tin&lt;/li&gt;
+  &lt;li&gt;Cook 180*(degress) 30-35 mins&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Ingrediants: 1/2 cup butter (melted) 1 cup sugar 1 tspn vanilla 2 eggs 3/4 cup self-raising flour 1/3 cup cocoa powder 1/2 - 1 cup choc bits or dried fruit or nuts</summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/jekyll/update/2019/06/06/helloWorld.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/helloWorld</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/helloWorld.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,7 +86,7 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts &quot;Hi, #{name}&quot; end print_hi('Tom') #=&amp;gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="reycipes/jekyll/update/2019/06/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>reycipes/jekyll/update/2019/06/06/welcome-to-jekyll</id><content type="html" xml:base="reycipes/jekyll/update/2019/06/06/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/06/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 

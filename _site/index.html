@@ -9,13 +9,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A very simple blog website that contains a multitude of recipes to lookup and browse." />
 <meta property="og:description" content="A very simple blog website that contains a multitude of recipes to lookup and browse." />
-<link rel="canonical" href="reycipes/" />
-<meta property="og:url" content="reycipes/" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
 <meta property="og:site_name" content="Recipes" />
 <script type="application/ld+json">
-{"url":"reycipes/","name":"Recipes","headline":"Recipes","description":"A very simple blog website that contains a multitude of recipes to lookup and browse.","@type":"WebSite","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/","description":"A very simple blog website that contains a multitude of recipes to lookup and browse.","name":"Recipes","headline":"Recipes","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="reycipes/feed.xml" title="Recipes" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Recipes" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Recipes</a><nav class="site-nav">
@@ -34,18 +34,45 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home">
+                <input class="input-search" type="text" name="" value="" placeholder="Search for recipes..." id="search-input">
+                <div class="header--block--result">
+                    <ul id="results-container"></ul>
+                </div>
 <h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Jun 6, 2019</span>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2019/06/06/welcome-to-jekyll.html">
-            Welcome to Jekyll!
-          </a>
-        </h3></li><li><span class="post-meta">Jun 6, 2019</span>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2019/06/06/helloWorld.html">
-            Hello World!
-          </a>
-        </h3></li></ul>
+
+    <ul class="post-list">
+        
+          <li>
+            <span class="post-meta">15 June 2019</span>
+            <a class="post-link" href="/jekyll/update/2019/06/15/thaimeatballs.html">Thai Meatballs with Peanut Sauce</a>
+          </li>
+        
+          <li>
+            <span class="post-meta">15 June 2019</span>
+            <a class="post-link" href="/jekyll/update/2019/06/15/scones.html">Fresh Scones</a>
+          </li>
+        
+          <li>
+            <span class="post-meta">15 June 2019</span>
+            <a class="post-link" href="/jekyll/update/2019/06/15/chillibeef.html">Chilli Beef</a>
+          </li>
+        
+          <li>
+            <span class="post-meta">15 June 2019</span>
+            <a class="post-link" href="/jekyll/update/2019/06/15/brownie.html">Brownies</a>
+          </li>
+        
+          <li>
+            <span class="post-meta">6 June 2019</span>
+            <a class="post-link" href="/jekyll/update/2019/06/06/welcome-to-jekyll.html">Welcome to Jekyll!</a>
+          </li>
+        
+          <li>
+            <span class="post-meta">6 June 2019</span>
+            <a class="post-link" href="/jekyll/update/2019/06/06/helloWorld.html">Hello World!</a>
+          </li>
+        
+    </ul>
 
     <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
 
@@ -74,6 +101,21 @@
   </div>
 
 </footer>
+
+<script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+  <script src="/assets/js/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
+  
+  <script>
+    AOS.init({
+      once: true
+    });
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+    })
+  </script>
+
 </body>
 
 </html>
