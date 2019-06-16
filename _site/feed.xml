@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-15T13:28:51+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Recipes</title><subtitle>A very simple blog website that contains a multitude of recipes to lookup and browse.</subtitle><entry><title type="html">Thai Meatballs with Peanut Sauce</title><link href="http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs.html" rel="alternate" type="text/html" title="Thai Meatballs with Peanut Sauce" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-16T14:27:25+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Recipes</title><subtitle>A very simple blog website that contains a multitude of recipes to lookup and browse.</subtitle><entry><title type="html">Brownies</title><link href="http://localhost:4000/jekyll/update/2019/06/15/brownie.html" rel="alternate" type="text/html" title="Brownies" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/brownie</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/brownie.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/2 cup butter (melted)&lt;/li&gt;
+  &lt;li&gt;1 cup sugar&lt;/li&gt;
+  &lt;li&gt;1 tspn vanilla&lt;/li&gt;
+  &lt;li&gt;2 eggs&lt;/li&gt;
+  &lt;li&gt;3/4 cup self-raising flour&lt;/li&gt;
+  &lt;li&gt;1/3 cup cocoa powder&lt;/li&gt;
+  &lt;li&gt;1/2 - 1 cup choc bits or dried fruit or nuts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mix butter, sugar, vanilla &amp;amp; eggs&lt;/li&gt;
+  &lt;li&gt;Add the flour &amp;amp; cocoa&lt;/li&gt;
+  &lt;li&gt;Lined square cake tin&lt;/li&gt;
+  &lt;li&gt;Cook 180*(degress) 30-35 mins&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Ingrediants: 1/2 cup butter (melted) 1 cup sugar 1 tspn vanilla 2 eggs 3/4 cup self-raising flour 1/3 cup cocoa powder 1/2 - 1 cup choc bits or dried fruit or nuts</summary></entry><entry><title type="html">Thai Meatballs with Peanut Sauce</title><link href="http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs.html" rel="alternate" type="text/html" title="Thai Meatballs with Peanut Sauce" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/thaimeatballs.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;500g topside mince&lt;/li&gt;
   &lt;li&gt;Flour for coating&lt;/li&gt;
@@ -57,24 +74,38 @@ dough. Turn out onto a floured board nd knead lightly. Roll to about 12mm in thi
   &lt;li&gt;Stir in beef, oyster sauce, fish sauce, water and capsicum and fry for a further 2 minutes or until meat is cooked. Serve sprinkled with chopped coriander.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Serves 4&lt;/p&gt;</content><author><name></name></author><summary type="html">Ingrediants: 2 to 3 red chillis, seeded Onion, peeled and quartered 3 Cloves garlic, peeled 3 Tablespoons oil 500g Rump or topside beef, thinly sliced 1 Tablespoon oyster sauce 2 Tablespoons fish sauce 4 Tablespoons water 1 Red capsicum sliced 2 Tablespoons chopped fresh coriander</summary></entry><entry><title type="html">Brownies</title><link href="http://localhost:4000/jekyll/update/2019/06/15/brownie.html" rel="alternate" type="text/html" title="Brownies" /><published>2019-06-15T01:04:17+10:00</published><updated>2019-06-15T01:04:17+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/15/brownie</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/15/brownie.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;p&gt;Serves 4&lt;/p&gt;</content><author><name></name></author><summary type="html">Ingrediants: 2 to 3 red chillis, seeded Onion, peeled and quartered 3 Cloves garlic, peeled 3 Tablespoons oil 500g Rump or topside beef, thinly sliced 1 Tablespoon oyster sauce 2 Tablespoons fish sauce 4 Tablespoons water 1 Red capsicum sliced 2 Tablespoons chopped fresh coriander</summary></entry><entry><title type="html">Butterscotch Buttons</title><link href="http://localhost:4000/jekyll/update/2019/06/06/butterscotchbuttons.html" rel="alternate" type="text/html" title="Butterscotch Buttons" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/butterscotchbuttons</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/butterscotchbuttons.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;1/2 cup butter (melted)&lt;/li&gt;
-  &lt;li&gt;1 cup sugar&lt;/li&gt;
-  &lt;li&gt;1 tspn vanilla&lt;/li&gt;
-  &lt;li&gt;2 eggs&lt;/li&gt;
-  &lt;li&gt;3/4 cup self-raising flour&lt;/li&gt;
-  &lt;li&gt;1/3 cup cocoa powder&lt;/li&gt;
-  &lt;li&gt;1/2 - 1 cup choc bits or dried fruit or nuts&lt;/li&gt;
+  &lt;li&gt;125g butter&lt;/li&gt;
+  &lt;li&gt;1 tablespoon vanilla&lt;/li&gt;
+  &lt;li&gt;1/2 cup brown sugar&lt;/li&gt;
+  &lt;li&gt;1 tablespoon golden syrup&lt;/li&gt;
+  &lt;li&gt;1 &amp;amp; 1/4 cups self-raising flour&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Beat butter, vanilla, sugar + golden syrup&lt;/li&gt;
+  &lt;li&gt;Mix in sifted flour&lt;/li&gt;
+  &lt;li&gt;150o for 30 mins&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Ingrediants: 125g butter 1 tablespoon vanilla 1/2 cup brown sugar 1 tablespoon golden syrup 1 &amp;amp; 1/4 cups self-raising flour</summary></entry><entry><title type="html">Choc Chip Cookies</title><link href="http://localhost:4000/jekyll/update/2019/06/06/chocchipcookies.html" rel="alternate" type="text/html" title="Choc Chip Cookies" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/chocchipcookies</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/chocchipcookies.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Mix butter, sugar, vanilla &amp;amp; eggs&lt;/li&gt;
-  &lt;li&gt;Add the flour &amp;amp; cocoa&lt;/li&gt;
-  &lt;li&gt;Lined square cake tin&lt;/li&gt;
-  &lt;li&gt;Cook 180*(degress) 30-35 mins&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Ingrediants: 1/2 cup butter (melted) 1 cup sugar 1 tspn vanilla 2 eggs 3/4 cup self-raising flour 1/3 cup cocoa powder 1/2 - 1 cup choc bits or dried fruit or nuts</summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/jekyll/update/2019/06/06/helloWorld.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/helloWorld</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/helloWorld.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+  &lt;li&gt;1 cup plain flour&lt;/li&gt;
+  &lt;li&gt;1 cup self-raising flour&lt;/li&gt;
+  &lt;li&gt;1 cup caster sugar&lt;/li&gt;
+  &lt;li&gt;1 cup chocolate bits&lt;/li&gt;
+  &lt;li&gt;125g melted butter&lt;/li&gt;
+  &lt;li&gt;1 egg(lightly beaten)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sift plain flour and self-raising flour&lt;/li&gt;
+  &lt;li&gt;Add chocolate bits&lt;/li&gt;
+  &lt;li&gt;Combine butter and egg in a bowl and cream + suger&lt;/li&gt;
+  &lt;li&gt;Pour into flour mixture&lt;/li&gt;
+  &lt;li&gt;Bake 18-20 mins at 180o&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Ingrediants: 1 cup plain flour 1 cup self-raising flour 1 cup caster sugar 1 cup chocolate bits 125g melted butter 1 egg(lightly beaten)</summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/jekyll/update/2019/06/06/helloWorld.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/helloWorld</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/helloWorld.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -86,16 +117,68 @@ dough. Turn out onto a floured board nd knead lightly. Roll to about 12mm in thi
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/06/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Tomato Risotto with Basil oil</title><link href="http://localhost:4000/jekyll/update/2019/06/06/tomatorisotto.html" rel="alternate" type="text/html" title="Tomato Risotto with Basil oil" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/tomatorisotto</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/tomatorisotto.html">&lt;p&gt;Prep time: 10 mins
+Cook time: 35 mins
+Serves 4&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1L salt-reduced chicken stock&lt;/li&gt;
+  &lt;li&gt;1/3 cup olive oil&lt;/li&gt;
+  &lt;li&gt;1 brown onion, finely chopped&lt;/li&gt;
+  &lt;li&gt;2 garlic cloves, crushed&lt;/li&gt;
+  &lt;li&gt;1 &amp;amp; 1/2 cups arborio rice&lt;/li&gt;
+  &lt;li&gt;400g can finely chopped tomatoes&lt;/li&gt;
+  &lt;li&gt;1 &amp;amp; 1/4 cups fresh basil leaves&lt;/li&gt;
+  &lt;li&gt;3/4 cup finely grated parmesan&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Heat stock in a medium sauepan over high heat until simmering. Remove from heat. Stand, covered, until required.&lt;/li&gt;
+  &lt;li&gt;Heat 1 tbs of the oil in a large saucepan over medium-high heat. Add onion and garlic and stir for 3 minutes or until softened. Add rice and cook, stirring, for 2 minutes or until rice is translucent at edges. Stir tomatoes.&lt;/li&gt;
+  &lt;li&gt;Add 1/2 cup stock to pan. Cook, stirring, until absorbed. Repeat with remaining stock, 1/2 cup at a time, until liquid has absorbed and rice is tender (about 20 minutes).&lt;/li&gt;
+  &lt;li&gt;Meanwhile, reserve some small basil leaves for garnish. Combine remaining basil and remaining oil in a blender or small food processor and process until smooth.&lt;/li&gt;
+  &lt;li&gt;Stir half the parmesan into risotto. Serve risotto topped with remaining parmesan, basil oil and reserved leaves.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Prep time: 10 mins Cook time: 35 mins Serves 4</summary></entry><entry><title type="html">White Choc Cookies</title><link href="http://localhost:4000/jekyll/update/2019/06/06/whitechoccookies.html" rel="alternate" type="text/html" title="White Choc Cookies" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/whitechoccookies</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/whitechoccookies.html">&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;125g butter, softened&lt;/li&gt;
+  &lt;li&gt;1/2 cup caster sugar&lt;/li&gt;
+  &lt;li&gt;1/2 cup brown sugar&lt;/li&gt;
+  &lt;li&gt;1 egg, lightly beaten&lt;/li&gt;
+  &lt;li&gt;1 &amp;amp; 3/4 cups self-raising flour&lt;/li&gt;
+  &lt;li&gt;200g white chocolate&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Beat butter and sugars in a small bowlwith an electric mixer until light and fluffy&lt;/li&gt;
+  &lt;li&gt;Add egg, beat until just combined. Transfer mixture to a large bowel.&lt;/li&gt;
+  &lt;li&gt;Stir in sifted flour, and white chocolate, mix until combined.&lt;/li&gt;
+  &lt;li&gt;Roll tabelspoons of mixture into balls. Place about 5cm apart on lightly greased oven trays, flatten slightly with a fork.&lt;/li&gt;
+  &lt;li&gt;Cook in a moderate oven for about 12 mins, or until lightly browned. Cool on trays.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Ingrediants: 125g butter, softened 1/2 cup caster sugar 1/2 cup brown sugar 1 egg, lightly beaten 1 &amp;amp; 3/4 cups self-raising flour 200g white chocolate</summary></entry><entry><title type="html">Bowtie Pasta with Chorizo, Red Capsicum, Rocket &amp;amp; Lemon Ricotta</title><link href="http://localhost:4000/jekyll/update/2019/06/06/bowtiepastachorizo.html" rel="alternate" type="text/html" title="Bowtie Pasta with Chorizo, Red Capsicum, Rocket &amp; Lemon Ricotta" /><published>2019-06-06T12:05:56+10:00</published><updated>2019-06-06T12:05:56+10:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/bowtiepastachorizo</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/bowtiepastachorizo.html">&lt;p&gt;Prep time: 10 mins
+Cook time: 10 mins
+Serves 4&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Ingrediants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;350g Bowtie Pasta (can use other pasta)&lt;/li&gt;
+  &lt;li&gt;2 tbsp olive oil&lt;/li&gt;
+  &lt;li&gt;250g dried chorizo, cut into 1cm pieces (can use other meat)&lt;/li&gt;
+  &lt;li&gt;2 medium (425g) red capsicums, diced&lt;/li&gt;
+  &lt;li&gt;1 medium brown onion, finely chopped&lt;/li&gt;
+  &lt;li&gt;3 cloves garlic, finely chopped&lt;/li&gt;
+  &lt;li&gt;2 tsp lemon zest&lt;/li&gt;
+  &lt;li&gt;1 tbsp lemon juice&lt;/li&gt;
+  &lt;li&gt;1/2 Chicken stock&lt;/li&gt;
+  &lt;li&gt;50g fresh ricotta cheese&lt;/li&gt;
+  &lt;li&gt;60g baby rocket&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Bring a large saucepan of salted water to the boil. Cook pasta according to packet directions, stirring occasionally, or until al dente. Drain.&lt;/li&gt;
+  &lt;li&gt;Meanwhile, in a large non-stick frying pan over medium-high heat, heat oil for 1 min, or until hot. Add chorizo and cook for 2 mins, or until it begins to brown. Reduce heat to medium. Add capsicum and onion and cook for 5 mins, or until onions are translucent and tender. Stir in garlic and cook for 2 mins,until fragrant and tender. Stir in lemon zest and juice.&lt;/li&gt;
+  &lt;li&gt;Add drained pasta, stock, ricotta and rocket. Toss until well combined, season with salt and pepper to taste. Serve warm.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Prep time: 10 mins Cook time: 10 mins Serves 4</summary></entry></feed>
